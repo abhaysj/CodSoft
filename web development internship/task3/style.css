@@ -1,0 +1,24 @@
+#cal {
+    margin: 50px auto;
+    width: 400px;
+    padding: 30px;
+    background-color:rgb(186, 222, 23);
+    border-radius: 10px;
+}
+
+input[type="text"], input[type="button"] {
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 2px;
+}
+
+input[type="button"] {
+    background-color: #4CAF50;
+    color:rgb(194, 33, 33);
+}
+ 
+h2{
+    background-color: #4CAF50;
+    color:rgb(194, 33, 33);
+}
